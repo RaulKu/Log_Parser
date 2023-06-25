@@ -6,7 +6,7 @@
 
 ### 1 Клонируйте репозиторий:
 
-git clone https://github.com/Turfal/apache-log-parser.git](https://github.com/RaulKu/Log_Parser
+git clone https://github.com/RaulKu/Log_Parser
 
 ### 2 Перейдите в каталог проекта: 
 
